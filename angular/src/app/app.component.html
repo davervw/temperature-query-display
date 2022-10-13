@@ -1,0 +1,9 @@
+<h3 *ngIf="temp == null">
+  Waiting for temperature module
+</h3>
+
+<h3 *ngIf="temp != null">
+  Temperature: {{ temp.fahrenheit }}
+</h3>
+
+<small>{{ lastUpdate }}</small>
