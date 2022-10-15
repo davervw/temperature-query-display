@@ -1,5 +1,7 @@
 # TemperatureQueryDisplay
 
+![temperature in browser](https://github.com/davervw/temperature-query-display/blob/master/media/IMG_20221014_072814.408.jpg?raw=true)
+
 This is a DIY remote temperature sensor consisting of multiple parts
 
 1. Temperature sensor module
