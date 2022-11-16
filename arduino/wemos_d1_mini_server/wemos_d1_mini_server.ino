@@ -11,7 +11,7 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 #include "SSD1306.h"
-#include "ssid_password.h"
+//#include "ssid_password.h"
 
 #ifndef STASSID
 #define STASSID "SSID"
