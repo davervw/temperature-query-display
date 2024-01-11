@@ -14,7 +14,7 @@ interface Temperature {
 export class AppComponent {
   constructor(private http: HttpClient) {}
   title = 'temperature-query-display';
-  url = 'http://172.27.1.38/temp';
+  url = 'http://172.27.1.24/temp';
   temp? : Temperature;
   lastUpdate : Date | '' = '';
 
